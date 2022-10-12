@@ -1,0 +1,7 @@
+.button{
+    -fx-graphic: url(../images/arrow.png);
+}
+
+.star {
+	-fx-fill: YELLOW;
+}
